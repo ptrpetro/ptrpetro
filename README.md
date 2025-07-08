@@ -25,8 +25,8 @@
 *F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird
 - 🚁 Rotorcraft favorite: *UH‑60 Black Hawk* but special place in heart for a 160th SOAR black MH‑47G Chinook
 
-- ️My obsession with the U.S. military was sparked by classics like Operation Flashpoint, ArmA series, Black Hawk Down, then supercharged by years living next to Eglin AFB
- daily fly-bys, watching SERE drills on the dock, first row seat for AC-130 live firing training, and annual Blue Angels shows in Pensacola, FL with my wife. (most recently at Sun’n’Fun 2025, Lakeland, FL).
+- ️My obsession with the U.S. military was sparked by classics like Operation Flashpoint, ArmA series, Black Hawk Down, then supercharged by years living next to Eglin AFB.
+ Daily fly-bys, watching SERE drills, parajumps from the dock, first row seat for AC-130 live firing training, and annual Blue Angels shows in Pensacola, FL with my wife. (most recently at Sun’n’Fun 2025, Lakeland, FL).
 ---
 
 ### ⚙️ Tech Stack & Tools
