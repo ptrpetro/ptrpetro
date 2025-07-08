@@ -15,7 +15,7 @@
 ---
 
 ### 💡 About Me
-- 🖥 Computer Science student focusing my electives on **Software Engineering**
+- 🖥 Junior year Computer Science student, focusing my electives on **Software Engineering**
 - 🔭 Currently leveling‑up through projects in **full‑stack web, Java backend, and embedded Linux**
 - 🌍 Born in **Hungary**, forged in **Florida**.    **Proud American**.
 - 🛩 A serious nut for **cars, sportbikes, planes & helicopters**
