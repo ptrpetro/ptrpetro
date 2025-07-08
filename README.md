@@ -22,7 +22,7 @@
 - 💪I also love bodybuilding, currently doing 🏋️‍♂️PPL x Arnold split.
 - 🏎 Dream garage: *McLaren F1 (1994 LM)* & *BMW S1000RR*
 - ✈️ Fixed-Wing obsessions: *Lockheed Martin's C‑5 Galaxy*,
-*F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird 👑
+*F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird
 - 🚁 Rotorcraft favorite: *UH‑60 Black Hawk* but special place in heart for a 160th SOAR black MH‑47G Chinook
 
 - ️My obsession with the U.S. military was sparked by classics like Operation Flashpoint, ArmA series, Black Hawk Down, then supercharged by years living next to Eglin AFB
