@@ -19,6 +19,7 @@
 - 🔭 Currently leveling‑up through projects in **full‑stack web, Java backend, and embedded Linux**
 - 🌍 Born in **Hungary**, forged in **Florida**.    **Proud American**.
 - 🛩 A serious nut for **cars, sportbikes, planes & helicopters**
+- 💪I also love bodybuilding, currently doing 🏋️‍♂️PPL x Arnold split.
 - 🏎 Dream garage: *McLaren F1 (1994 LM)* & *BMW S1000RR*
 - ✈️ Fixed-Wing obsessions: *Lockheed Martin's C‑5 Galaxy*,
 *F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird 👑
@@ -64,4 +65,4 @@
 
 ---
 
-> “Be quick, be quiet, and be on time.” — **Clarence "Kelly" Johnson**(Skunk Works)
+> “Be quick, be quiet, and be on time.” - **Clarence "Kelly" Johnson**(Skunk Works)
