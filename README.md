@@ -64,4 +64,4 @@
 
 ---
 
-> “Make it work, make it right, make it fast.” — **Kent Beck**
+> “Be quick, be quiet, and be on time.” — **Clarence "Kelly" Johnson**(Skunk Works)
