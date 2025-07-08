@@ -20,7 +20,7 @@
 - 🌍 Born in **Hungary**, forged in **Florida**.    **Proud American**.
 - 🛩 A serious nut for **cars, sportbikes, planes & helicopters**
 - 💪I also love bodybuilding, currently doing 🏋️‍♂️PPL x Arnold split.
-- 🏎 Dream garage: *McLaren F1 (1994 LM)* & *BMW S1000RR*
+- 🏎 Dream garage: McLaren F1 (1994 LM) & BMW S1000RR and a used AV-8B Harrier II from the Royal Navy
 - ✈️ Fixed-Wing obsessions: *Lockheed Martin's C‑5 Galaxy*,
 *F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird
 - 🚁 Rotorcraft favorite: *UH‑60 Black Hawk* but special place in heart for a 160th SOAR black MH‑47G Chinook
