@@ -1,11 +1,10 @@
 <div align="center">
-
 ![banner](https://raw.githubusercontent.com/ptrpetro/ptrpetro/main/resources/banner.svg)
 
 </div>
 
 <h1 align="center">Hey there, I'm Peter Petro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
-<h3 align="center">🚀 Computer Science @ University of Central Florida | Software Engineering Track</h3>
+<h3 align="center">🚀 Junior Computer Science student @ University of Central Florida | Software Engineering Track</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Born-Hungary-008C45?style=for-the-badge&labelColor=white&logoColor=white&logo=hungary" />
@@ -15,7 +14,7 @@
 ---
 
 ### 💡 About Me
-- 🖥 CS student laser‑focusing my electives on **Software Engineering**
+- 🖥 Computer Science student focusing my electives on **Software Engineering**
 - 🔭 Currently leveling‑up through projects in **full‑stack web, Java backend, and embedded Linux**
 - 🌍 Born in **Hungary**, forged in **Florida**.    **Proud American**.
 - 🛩 A serious nut for **cars, sportbikes, planes & helicopters**
