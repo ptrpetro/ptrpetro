@@ -23,7 +23,7 @@
 - 🏎 Dream garage: McLaren F1 (1994 LM) & BMW S1000RR and a used AV-8B Harrier II from the Royal Navy
 - ✈️ Fixed-Wing obsessions: *Lockheed Martin's C‑5 Galaxy*,
 *F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird
-- 🚁 Rotorcraft favorite: *UH‑60 Black Hawk* but special place in heart for a 160th SOAR black MH‑47G Chinook
+- 🚁 Rotorcraft favorite: *UH‑60 Black Hawk* but there is a special place in my heart for 160th SOAR's MH‑47 Chinook
 
 - ️My obsession with Aviation the U.S. military was sparked by classics like Operation Flashpoint, ArmA series, Black Hawk Down, then supercharged by years living next to Eglin AFB.
  Daily fly-bys, watching SERE drills, parajumps from the dock, first row seat for AC-130 live firing training, and annual Blue Angels shows in Pensacola, FL with my wife. (most recently at Sun’n’Fun 2025, Lakeland, FL).
