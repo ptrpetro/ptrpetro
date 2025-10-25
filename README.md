@@ -16,17 +16,17 @@
 
 ### 💡 About Me
 - 🖥I am a Computer Science student, focusing my electives on **Software Engineering**
-- 🔭 Currently leveling‑up through projects in **full‑stack web, Java backend, and embedded Linux**
+- 🔭 Currently leveling‑up through projects in **full‑stack web, C++ backend, and embedded Linux**
 - 🌍 Born in **Hungary**, forged in **Florida**.    **Proud American**.
 - 🛩 A serious nut for **cars, sportbikes, planes & helicopters**
 - 💪I also love bodybuilding, currently doing 🏋️‍♂️PPL x Arnold split.
 - 🏎 Dream garage: McLaren F1 (1994 LM) & BMW S1000RR and a used AV-8B Harrier II from the Royal Navy
 - ✈️ Fixed-Wing obsessions: *Lockheed Martin's C‑5 Galaxy*,
-*F‑22 Raptor*, F-35C Lightning II VTOL, SR-71 Blackbird
+*F‑22 Raptor*, SR-71 Blackbird
 - 🚁 Rotorcraft favorite: *UH‑60 Black Hawk* but there is a special place in my heart for 160th SOAR's MH‑47 Chinook
 
 - ️My obsession with Aviation the U.S. military was sparked by classics like Operation Flashpoint, ArmA series, Black Hawk Down, then supercharged by years living next to Eglin AFB.
- Daily fly-bys, watching SERE drills, parajumps from the dock, first row seat for AC-130 live firing training, and annual Blue Angels shows in Pensacola, FL with my wife. (most recently at Sun’n’Fun 2025, Lakeland, FL).
+ Daily fly-bys, watching SERE drills, parajumps from the dock, first row seat for AC-130 live firing training, and annual Blue Angels shows in Pensacola, FL with my wife.
 ---
 
 ### ⚙️ Tech Stack & Tools
@@ -64,5 +64,3 @@
 <a href="mailto:pe310601@ucf.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
-
-> “Be quick, be quiet, and be on time.” - **Clarence "Kelly" Johnson**(Skunk Works)
